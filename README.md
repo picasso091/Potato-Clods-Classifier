@@ -1,2 +1,2 @@
 # Potato-Clods-Classifier
-# Potato-Clods-Classifier_yolov3
+Classify potato from clods applying transfer learning on pre-trained YOLOv3 model.
